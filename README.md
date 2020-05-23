@@ -12,3 +12,9 @@
 ```
 
 **Just like this, remember you have to put all these properties inside classname**
+
+Then import css file to the component which you want to use this className and then:
+
+```
+<div className='icon-CRM'></div>
+```
